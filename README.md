@@ -26,4 +26,5 @@ List of cool websites, resources and articles :
 
 * __Misc__
 1. [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+2. [Labs and demos for courses for GCP Training](https://github.com/agabhi017/training-data-analyst)
 
