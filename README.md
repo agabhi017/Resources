@@ -1,4 +1,7 @@
 # Resources
 
 List of cool websites and resources :
-[Text Visualization](https://textvis.lnu.se/)
+
+* __NLP__ :
+
+1. [Text Visualization](https://textvis.lnu.se/)
