@@ -1,6 +1,6 @@
 # Resources
 
-List of cool websites,resources and articles :
+List of cool websites, resources and articles :
 
 * __NLP__ 
 1. [Text Visualization](https://textvis.lnu.se/)
