@@ -27,6 +27,10 @@ List of cool websites, resources and articles :
 ### __Blogs__
 * [ML Whiz](https://mlwhiz.com/)
 
+### __Youtube Channels__
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+* [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
+
 
 ### __Misc__
 * [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
