@@ -30,6 +30,7 @@ List of cool websites, resources and articles :
 ### __Youtube Channels__
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
+* [It's Bloody Science!](https://www.youtube.com/c/ItsBloodyScience/videos)
 
 
 ### __Misc__
