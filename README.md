@@ -33,6 +33,7 @@ List of cool websites, resources and articles :
 * [It's Bloody Science!](https://www.youtube.com/c/ItsBloodyScience/videos)
 * [OpenAI](https://www.youtube.com/c/OpenAI/videos)
 * [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
+* []freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 
 
 ### __Misc__
