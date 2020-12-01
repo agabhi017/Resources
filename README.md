@@ -36,6 +36,8 @@ List of cool websites, resources and articles :
 * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 * [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 
+### __Linkedin Profiles__
+* [Steve Nouri](https://www.linkedin.com/in/stevenouri/)
 
 ### __Misc__
 * [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
