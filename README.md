@@ -36,6 +36,7 @@ List of cool websites, resources and articles :
 * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 * [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 * [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
+* [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
 
 ### __Linkedin Profiles__
 * [Steve Nouri](https://www.linkedin.com/in/stevenouri/)
