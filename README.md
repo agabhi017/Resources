@@ -37,6 +37,7 @@ List of cool websites, resources and articles :
 * [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)
 * [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
 * [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
+* [The Coding Train](https://www.youtube.com/c/TheCodingTrain/videos)
 
 ### __Linkedin Profiles__
 * [Steve Nouri](https://www.linkedin.com/in/stevenouri/)
