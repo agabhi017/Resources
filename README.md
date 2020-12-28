@@ -44,6 +44,7 @@ List of cool websites, resources and articles :
 * [Vincent Boucher](https://www.linkedin.com/in/montrealai/)
 
 ### __Misc__
+* [C++ Tutorial From Basic to Advance](https://www.youtube.com/watch?v=mUQZ1qmKlLY)
 * [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 * [Labs and demos for courses for GCP Training](https://github.com/agabhi017/training-data-analyst)
 
