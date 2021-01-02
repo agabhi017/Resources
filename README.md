@@ -5,6 +5,7 @@ List of cool websites, resources and articles :
 ### __NLP__ 
 * [Text Visualization](https://textvis.lnu.se/)
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
+* [The Pile](https://pile.eleuther.ai/)
 
 
 ### __Deep Learning__
