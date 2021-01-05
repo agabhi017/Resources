@@ -2,6 +2,11 @@
 
 List of cool websites, resources and articles :
 
+### __Cheat Sheets__
+* [Linear Algebra and Calculus](https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus)
+* [Probability](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability)
+* [Statistics](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics)
+
 ### __NLP__ 
 * [Text Visualization](https://textvis.lnu.se/)
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
