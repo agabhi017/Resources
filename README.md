@@ -34,6 +34,9 @@ List of cool websites, resources and articles :
 ### __Competitions/Challenges__
 * [RL Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
 
+### __C++__
+* [The C++ 'const' Declaration: Why & How](http://duramecho.com/ComputerInformation/WhyHowCppConst.html)
+
 
 ### __Blogs__
 * [ML Whiz](https://mlwhiz.com/)
