@@ -6,6 +6,11 @@ List of cool websites, resources and articles :
 * [Linear Algebra and Calculus](https://stanford.edu/~shervine/teaching/cs-229/refresher-algebra-calculus)
 * [Probability](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability)
 * [Statistics](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics)
+* [Distribution tables](https://stanford.edu/~shervine/teaching/cme-106/distribution-tables)
+* [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+* [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
+* [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+* [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 
 ### __NLP__ 
 * [Text Visualization](https://textvis.lnu.se/)
