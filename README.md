@@ -24,6 +24,7 @@ List of cool websites, resources and articles :
 
 ### __ML General__
 * [ML Explained](https://mlexplained.com/)
+* [ML Systems Design](https://docs.google.com/presentation/d/1WNN6GS-BM62BUfyJD3lbgCYE25eT0Ugo2SbSsSevDL4/edit#slide=id.p)
 
 
 ### __Reinforcement Learning__
