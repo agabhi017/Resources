@@ -11,6 +11,7 @@ List of cool websites, resources and articles :
 * [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
 * [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
 * [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+* [Theoretical Computer Science](https://github.com/nihesh/stanfordacm/blob/master/cheat_sheet.pdf)
 
 ### __NLP__ 
 * [Text Visualization](https://textvis.lnu.se/)
@@ -37,6 +38,9 @@ List of cool websites, resources and articles :
 
 ### __C++__
 * [The C++ 'const' Declaration: Why & How](http://duramecho.com/ComputerInformation/WhyHowCppConst.html)
+
+### __Competitive Programming__
+* [Stanford's ICPC Team Notebook](https://github.com/nihesh/stanfordacm/blob/master/notebook.pdf)
 
 
 ### __Blogs__
