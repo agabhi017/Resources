@@ -42,6 +42,7 @@ List of cool websites, resources and articles :
 
 ### __Competitive Programming__
 * [Stanford's ICPC Team Notebook](https://github.com/nihesh/stanfordacm/blob/master/notebook.pdf)
+* [CSES Problem Set](https://cses.fi/problemset/)
 
 
 ### __Blogs__
