@@ -18,6 +18,8 @@ List of cool websites, resources and articles :
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 * [The Pile](https://pile.eleuther.ai/)
 
+### __Cloud GPUs__
+* [GPU LAND](https://gpu.land/)
 
 ### __Deep Learning__
 * [Virtual Epochs](https://medium.com/google-cloud/ml-design-pattern-3-virtual-epochs-f842296de730)
