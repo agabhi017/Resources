@@ -14,9 +14,11 @@ List of cool websites, resources and articles :
 * [Theoretical Computer Science](https://github.com/nihesh/stanfordacm/blob/master/cheat_sheet.pdf)
 
 ### __NLP__ 
+* [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 * [Text Visualization](https://textvis.lnu.se/)
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 * [The Pile](https://pile.eleuther.ai/)
+
 
 ### __Cloud GPUs__
 * [GPU LAND](https://gpu.land/)
