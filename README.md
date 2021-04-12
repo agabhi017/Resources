@@ -16,6 +16,7 @@ List of cool websites, resources and articles :
 ### __NLP__ 
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 * [Text Visualization](https://textvis.lnu.se/)
+* [Language Interpretability Tool](https://pair-code.github.io/lit/)
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 * [The Pile](https://pile.eleuther.ai/)
 
