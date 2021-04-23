@@ -19,6 +19,8 @@ List of cool websites, resources and articles :
 * [Language Interpretability Tool](https://pair-code.github.io/lit/)
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
 * [The Pile](https://pile.eleuther.ai/)
+* [Hugging Face Models](https://huggingface.co/models)
+* [Hugging Face Datasets](https://huggingface.co/datasets)
 
 
 ### __Cloud GPUs__
