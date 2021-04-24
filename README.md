@@ -24,6 +24,14 @@ List of cool websites, resources and articles :
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 * [Data Sceintist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 
+### __Websites__
+* [ML Explained](https://ml-explained.com/)
+* [Hugging Face](https://huggingface.co/)
+* [Confetti.ai](https://www.confetti.ai/)
+
+### __Cloud GPUs__
+* [GPU LAND](https://gpu.land/)
+
 ### __NLP__ 
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 * [Text Visualization](https://textvis.lnu.se/)
@@ -33,24 +41,18 @@ List of cool websites, resources and articles :
 * [Hugging Face Models](https://huggingface.co/models)
 * [Hugging Face Datasets](https://huggingface.co/datasets)
 
-
-### __Cloud GPUs__
-* [GPU LAND](https://gpu.land/)
-
 ### __Deep Learning__
+* [Practical Deep Learning for Coders](https://course.fast.ai/)
 * [Virtual Epochs](https://medium.com/google-cloud/ml-design-pattern-3-virtual-epochs-f842296de730)
-
 
 ### __ML General__
 * [Sebastain Raschka's Resources on ML/DL](https://sebastianraschka.com)
-* [ML Explained](https://mlexplained.com/)
 * [ML Systems Design](https://docs.google.com/presentation/d/1WNN6GS-BM62BUfyJD3lbgCYE25eT0Ugo2SbSsSevDL4/edit#slide=id.p)
-
 
 ### __Reinforcement Learning__
 * [Introduction to Deep Reinforcement Learning (Deep RL)](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+* [Deep RL - UC Berkley, CS 285 Fall 19](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
-
 
 ### __Competitions/Challenges__
 * [RL Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
@@ -70,6 +72,7 @@ List of cool websites, resources and articles :
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
 * [It's Bloody Science!](https://www.youtube.com/c/ItsBloodyScience/videos)
+* [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 * [OpenAI](https://www.youtube.com/c/OpenAI/videos)
 * [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A)
 * [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
@@ -81,6 +84,8 @@ List of cool websites, resources and articles :
 ### __Linkedin Profiles__
 * [Steve Nouri](https://www.linkedin.com/in/stevenouri/)
 * [Vincent Boucher](https://www.linkedin.com/in/montrealai/)
+* [Isaac Faber](https://www.linkedin.com/in/isaacfaber/)
+* [Philip Vollet](https://www.linkedin.com/in/philipvollet/)
 
 ### __Misc__
 * [C++ Tutorial From Basic to Advance](https://www.youtube.com/watch?v=mUQZ1qmKlLY)
