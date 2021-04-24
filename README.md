@@ -16,6 +16,7 @@ List of cool websites, resources and articles :
 
 ### __APIs__
 * [ML Tooling](https://github.com/ml-tooling)
+* [ML Ops](https://github.com/feast-dev/feast)
 
 ### __Github Repos__
 * [Data Science Resources](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)
