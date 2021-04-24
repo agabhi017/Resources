@@ -12,9 +12,16 @@ List of cool websites, resources and articles :
 * [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
 * [Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 * [Theoretical Computer Science](https://github.com/nihesh/stanfordacm/blob/master/cheat_sheet.pdf)
+* [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
 
 ### __APIs__
 * [ML Tooling](https://github.com/ml-tooling)
+
+### __Github Repos__
+* [Data Science Resources](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)
+* [Data Science Resources 2](https://github.com/jonathan-bower/DataScienceResources)
+* [Awesome Data Science](https://github.com/academic/awesome-datascience)
+* [Data Sceintist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 
 ### __NLP__ 
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
