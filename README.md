@@ -17,12 +17,16 @@ List of cool websites, resources and articles :
 ### __APIs__
 * [ML Tooling](https://github.com/ml-tooling)
 * [ML Ops](https://github.com/feast-dev/feast)
+* [skweak: Weak supervision for NLP](https://github.com/NorskRegnesentral/skweak)
+* [CuPy : A NumPy-compatible array library accelerated by CUDA](https://github.com/cupy/cupy)
+* [Pytorch Lightning](https://github.com/PyTorchLightning)
 
 ### __Github Repos__
 * [Data Science Resources](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)
 * [Data Science Resources 2](https://github.com/jonathan-bower/DataScienceResources)
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 * [Data Sceintist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
+* [Numba for CUDA Programmers](https://github.com/numba/nvidia-cuda-tutorial)
 
 ### __Websites__
 * [ML Explained](https://ml-explained.com/)
@@ -53,6 +57,7 @@ List of cool websites, resources and articles :
 * [Introduction to Deep Reinforcement Learning (Deep RL)](https://www.youtube.com/watch?v=zR11FLZ-O9M)
 * [Deep RL - UC Berkley, CS 285 Fall 19](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+* [Evolving Reinforcement Learning Algorithms](https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html)
 
 ### __Competitions/Challenges__
 * [RL Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
