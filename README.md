@@ -20,6 +20,7 @@ List of cool websites, resources and articles :
 * [skweak: Weak supervision for NLP](https://github.com/NorskRegnesentral/skweak)
 * [CuPy : A NumPy-compatible array library accelerated by CUDA](https://github.com/cupy/cupy)
 * [Pytorch Lightning](https://github.com/PyTorchLightning)
+* [Snowplow - Big data and analytics](https://github.com/snowplow/snowplow)
 
 ### __Github Repos__
 * [Data Science Resources](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)
@@ -44,10 +45,13 @@ List of cool websites, resources and articles :
 * [The Pile](https://pile.eleuther.ai/)
 * [Hugging Face Models](https://huggingface.co/models)
 * [Hugging Face Datasets](https://huggingface.co/datasets)
+* [BERTopic](https://github.com/MaartenGr/BERTopic)
+* [FairyTailor](https://fairytailor.org/)
 
 ### __Deep Learning__
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
 * [Virtual Epochs](https://medium.com/google-cloud/ml-design-pattern-3-virtual-epochs-f842296de730)
+* [Style CLIP](https://github.com/orpatashnik/StyleCLIP)
 
 ### __ML General__
 * [Sebastain Raschka's Resources on ML/DL](https://sebastianraschka.com)
