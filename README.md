@@ -21,6 +21,10 @@ List of cool websites, resources and articles :
 * [CuPy : A NumPy-compatible array library accelerated by CUDA](https://github.com/cupy/cupy)
 * [Pytorch Lightning](https://github.com/PyTorchLightning)
 * [Snowplow - Big data and analytics](https://github.com/snowplow/snowplow)
+* [GraphScope - unified distributed graph computing platform](https://github.com/alibaba/GraphScope)
+* [TorchDrift - drift detection for PyTorch](https://github.com/torchdrift/torchdrift/)
+* [DiffQ - Differentiable Model Compression via Pseudo Quantization Noise](https://github.com/facebookresearch/diffq)
+* [Neo4j GraphQL Library](https://github.com/neo4j/graphql)
 
 ### __Github Repos__
 * [Data Science Resources](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)
@@ -38,7 +42,9 @@ List of cool websites, resources and articles :
 * [GPU LAND](https://gpu.land/)
 
 ### __NLP__ 
+* [AutoNLP](https://github.com/huggingface/autonlp)
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
+* [The NLP Index](https://index.quantumstat.com/)
 * [Text Visualization](https://textvis.lnu.se/)
 * [Language Interpretability Tool](https://pair-code.github.io/lit/)
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
@@ -52,6 +58,7 @@ List of cool websites, resources and articles :
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
 * [Virtual Epochs](https://medium.com/google-cloud/ml-design-pattern-3-virtual-epochs-f842296de730)
 * [Style CLIP](https://github.com/orpatashnik/StyleCLIP)
+* [Machine Learning with Graphs, Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
 ### __ML General__
 * [Sebastain Raschka's Resources on ML/DL](https://sebastianraschka.com)
@@ -73,7 +80,6 @@ List of cool websites, resources and articles :
 * [Stanford's ICPC Team Notebook](https://github.com/nihesh/stanfordacm/blob/master/notebook.pdf)
 * [CSES Problem Set](https://cses.fi/problemset/)
 
-
 ### __Blogs__
 * [ML Whiz](https://mlwhiz.com/)
 
@@ -89,6 +95,7 @@ List of cool websites, resources and articles :
 * [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
 * [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
 * [The Coding Train](https://www.youtube.com/c/TheCodingTrain/videos)
+* [AI Engineering](https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw)
 
 ### __Linkedin Profiles__
 * [Steve Nouri](https://www.linkedin.com/in/stevenouri/)
