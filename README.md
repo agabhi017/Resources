@@ -7,6 +7,7 @@ List of cool websites, resources and articles :
 * [Probability](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-probability)
 * [Statistics](https://stanford.edu/~shervine/teaching/cme-106/cheatsheet-statistics)
 * [Distribution tables](https://stanford.edu/~shervine/teaching/cme-106/distribution-tables)
+* [Explainable AI](https://ex.pegg.io/)
 * [Supervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 * [Unsupervised Learning](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning)
 * [Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
@@ -25,8 +26,11 @@ List of cool websites, resources and articles :
 * [TorchDrift - drift detection for PyTorch](https://github.com/torchdrift/torchdrift/)
 * [DiffQ - Differentiable Model Compression via Pseudo Quantization Noise](https://github.com/facebookresearch/diffq)
 * [Neo4j GraphQL Library](https://github.com/neo4j/graphql)
+* [Pyodide - run Python inside a web browser](https://github.com/pyodide/pyodide)
+* [Flyte - highly concurrent, scalable and maintainable workflows for Machine Learning](https://github.com/flyteorg/flyte)
 
 ### __Github Repos__
+* [Awesome JAX - for high performance machine learning research](https://github.com/n2cholas/awesome-jax)
 * [Data Science Resources](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)
 * [Data Science Resources 2](https://github.com/jonathan-bower/DataScienceResources)
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
@@ -53,6 +57,7 @@ List of cool websites, resources and articles :
 * [Hugging Face Datasets](https://huggingface.co/datasets)
 * [BERTopic](https://github.com/MaartenGr/BERTopic)
 * [FairyTailor](https://fairytailor.org/)
+* [OptiPrompt - implementation of the paper Factual Probing Is (MASK): Learning vs. Learning to Recall](https://github.com/princeton-nlp/OptiPrompt)
 
 ### __Deep Learning__
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
@@ -69,6 +74,7 @@ List of cool websites, resources and articles :
 * [Deep RL - UC Berkley, CS 285 Fall 19](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
 * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 * [Evolving Reinforcement Learning Algorithms](https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html)
+* [Improving Pretrained Models for Zero-shot Multi-label Text Classification through Reinforced Label Hierarchy Reasoning](https://github.com/amzn/zero-shot-rlhr)
 
 ### __Competitions/Challenges__
 * [RL Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
