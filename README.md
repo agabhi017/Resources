@@ -28,6 +28,12 @@ List of cool websites, resources and articles :
 * [Neo4j GraphQL Library](https://github.com/neo4j/graphql)
 * [Pyodide - run Python inside a web browser](https://github.com/pyodide/pyodide)
 * [Flyte - highly concurrent, scalable and maintainable workflows for Machine Learning](https://github.com/flyteorg/flyte)
+* [CORTX - Open Source Mass-Capacity Optimized Object Store](https://github.com/Seagate/cortx)
+* [Jina - universal framework to support all your neural search use cases](https://github.com/jina-ai/jina/releases/tag/v1.2.0)
+* [Prefect - workflow management system](https://github.com/PrefectHQ/prefect)
+* [Pytorch Tabular](https://github.com/manujosephv/pytorch_tabular)
+* [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
+* 
 
 ### __Github Repos__
 * [Awesome JAX - for high performance machine learning research](https://github.com/n2cholas/awesome-jax)
@@ -49,6 +55,7 @@ List of cool websites, resources and articles :
 * [AutoNLP](https://github.com/huggingface/autonlp)
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 * [The NLP Index](https://index.quantumstat.com/)
+* [Samanantar - parallel corpora collection for Indic languages](https://indicnlp.ai4bharat.org/samanantar/)
 * [Text Visualization](https://textvis.lnu.se/)
 * [Language Interpretability Tool](https://pair-code.github.io/lit/)
 * [The Big Bad NLP Database](https://datasets.quantumstat.com/)
