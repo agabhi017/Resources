@@ -33,7 +33,6 @@ List of cool websites, resources and articles :
 * [Prefect - workflow management system](https://github.com/PrefectHQ/prefect)
 * [Pytorch Tabular](https://github.com/manujosephv/pytorch_tabular)
 * [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
-* 
 
 ### __Github Repos__
 * [Awesome JAX - for high performance machine learning research](https://github.com/n2cholas/awesome-jax)
