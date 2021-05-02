@@ -33,6 +33,10 @@ List of cool websites, resources and articles :
 * [Prefect - workflow management system](https://github.com/PrefectHQ/prefect)
 * [Pytorch Tabular](https://github.com/manujosephv/pytorch_tabular)
 * [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
+* [Draw Data](https://pypi.org/project/drawdata/)
+* [MLJAR Automated Machine Learning for Humans](https://github.com/mljar/mljar-supervised)
+* [Coqui Text to Speech](https://github.com/coqui-ai/TTS)
+* [Coqui Speech to Text](https://github.com/coqui-ai/STT)
 
 ### __Github Repos__
 * [Awesome JAX - for high performance machine learning research](https://github.com/n2cholas/awesome-jax)
@@ -46,6 +50,7 @@ List of cool websites, resources and articles :
 * [ML Explained](https://ml-explained.com/)
 * [Hugging Face](https://huggingface.co/)
 * [Confetti.ai](https://www.confetti.ai/)
+* [Draw Data](https://drawdata.xyz/)
 
 ### __Cloud GPUs__
 * [GPU LAND](https://gpu.land/)
@@ -64,6 +69,7 @@ List of cool websites, resources and articles :
 * [BERTopic](https://github.com/MaartenGr/BERTopic)
 * [FairyTailor](https://fairytailor.org/)
 * [OptiPrompt - implementation of the paper Factual Probing Is (MASK): Learning vs. Learning to Recall](https://github.com/princeton-nlp/OptiPrompt)
+* [Nonsense Laboratory](https://artsexperiments.withgoogle.com/nonsense-laboratory/)
 
 ### __Deep Learning__
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
@@ -81,6 +87,7 @@ List of cool websites, resources and articles :
 * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 * [Evolving Reinforcement Learning Algorithms](https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html)
 * [Improving Pretrained Models for Zero-shot Multi-label Text Classification through Reinforced Label Hierarchy Reasoning](https://github.com/amzn/zero-shot-rlhr)
+* [https://mlg-blog.com/2021/04/30/reinforcement-learning-for-3d-molecular-design.html](https://mlg-blog.com/2021/04/30/reinforcement-learning-for-3d-molecular-design.html)
 
 ### __Competitions/Challenges__
 * [RL Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/)
