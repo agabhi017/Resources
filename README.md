@@ -35,8 +35,11 @@ List of cool websites, resources and articles :
 * [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
 * [Draw Data](https://pypi.org/project/drawdata/)
 * [MLJAR Automated Machine Learning for Humans](https://github.com/mljar/mljar-supervised)
-* [Coqui Text to Speech](https://github.com/coqui-ai/TTS)
-* [Coqui Speech to Text](https://github.com/coqui-ai/STT)
+* [JAX ResNet - Implementations and Checkpoints for ResNet Variants](https://github.com/n2cholas/jax-resnet/)
+* [Panel Highcharts](https://github.com/marcskovmadsen/panel-highcharts)
+* [Numpy ML](https://github.com/ddbourgin/numpy-ml)
+* [Supabase - an open source Firebase alternative](https://github.com/supabase/supabase)
+* [Rosé Pine for Matplotlib](https://github.com/h4pZ/rose-pine-matplotlib)
 
 ### __Github Repos__
 * [Awesome JAX - for high performance machine learning research](https://github.com/n2cholas/awesome-jax)
@@ -45,6 +48,7 @@ List of cool websites, resources and articles :
 * [Awesome Data Science](https://github.com/academic/awesome-datascience)
 * [Data Sceintist Roadmap](https://github.com/MrMimic/data-scientist-roadmap)
 * [Numba for CUDA Programmers](https://github.com/numba/nvidia-cuda-tutorial)
+* [Colab-Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks)
 
 ### __Websites__
 * [ML Explained](https://ml-explained.com/)
@@ -57,6 +61,7 @@ List of cool websites, resources and articles :
 
 ### __NLP__ 
 * [AutoNLP](https://github.com/huggingface/autonlp)
+* [Spark NLP: State of the Art Natural Language Processing](https://github.com/johnsnowlabs/spark-nlp)
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 * [The NLP Index](https://index.quantumstat.com/)
 * [Samanantar - parallel corpora collection for Indic languages](https://indicnlp.ai4bharat.org/samanantar/)
@@ -70,6 +75,9 @@ List of cool websites, resources and articles :
 * [FairyTailor](https://fairytailor.org/)
 * [OptiPrompt - implementation of the paper Factual Probing Is (MASK): Learning vs. Learning to Recall](https://github.com/princeton-nlp/OptiPrompt)
 * [Nonsense Laboratory](https://artsexperiments.withgoogle.com/nonsense-laboratory/)
+* [Coqui Text to Speech](https://github.com/coqui-ai/TTS)
+* [Coqui Speech to Text](https://github.com/coqui-ai/STT)
+* [OCTIS - Optimizing and Comparing Topic Models](https://github.com/mind-lab/octis)
 
 ### __Deep Learning__
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
