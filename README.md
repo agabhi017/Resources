@@ -40,6 +40,7 @@ List of cool websites, resources and articles :
 * [Numpy ML](https://github.com/ddbourgin/numpy-ml)
 * [Supabase - an open source Firebase alternative](https://github.com/supabase/supabase)
 * [Rosé Pine for Matplotlib](https://github.com/h4pZ/rose-pine-matplotlib)
+* [Panel - A high-level app and dashboarding solution](https://github.com/holoviz/panel)
 
 ### __Github Repos__
 * [Awesome JAX - for high performance machine learning research](https://github.com/n2cholas/awesome-jax)
@@ -55,6 +56,13 @@ List of cool websites, resources and articles :
 * [Hugging Face](https://huggingface.co/)
 * [Confetti.ai](https://www.confetti.ai/)
 * [Draw Data](https://drawdata.xyz/)
+
+### __DataSets__
+* [Papers With Code](https://paperswithcode.com/datasets)
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
+* [Public data sets for testing and prototyping](https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets)
+* [CMU Datasets](https://guides.library.cmu.edu/az.php)
+* [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 ### __Cloud GPUs__
 * [GPU LAND](https://gpu.land/)
