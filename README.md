@@ -72,6 +72,7 @@ List of cool websites, resources and articles :
 * [Spark NLP: State of the Art Natural Language Processing](https://github.com/johnsnowlabs/spark-nlp)
 * [The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
 * [The NLP Index](https://index.quantumstat.com/)
+* [TAT-QA - QA over Real-world Tabular&Textual Content](https://nextplusplus.github.io/TAT-QA/)
 * [Samanantar - parallel corpora collection for Indic languages](https://indicnlp.ai4bharat.org/samanantar/)
 * [Text Visualization](https://textvis.lnu.se/)
 * [Language Interpretability Tool](https://pair-code.github.io/lit/)
